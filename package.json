@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-  "author": "Simone Bogni",
+	"author": "Simone Bogni",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
